@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+:root {
+  --blue: #ff1e40;
+  --white: #ffffff; 
+  --weight:400;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: var(--weight);
+  background-color: var(--blue);
+}
+/* #the-bridge {
+  background-color: aqua;
+}
+.the-bridge {
+  background-color: blueviolet;
+}
+.the-bridge {
+  background-color: red;
+}
+p {
+  background-color: yellow !important;
+} */
+
+span.texto {
+  color: blue;
+}
+
